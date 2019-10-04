@@ -1,0 +1,367 @@
+
+[Minggu, 24 - 03 - 2019 | 11:36:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:04] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:05] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:14] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:15] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:17] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:36:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:24] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:36:24] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:25] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:34] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:35] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:40] 'c39928fb7d8d3a5777a3cc88372aa0743'
+[Minggu, 24 - 03 - 2019 | 11:36:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:36:44] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:45] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:54] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:36:55] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:36:56] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:36:57] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:04] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:05] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:14] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:16] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:26] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:34] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:36] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:37:45] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:45] 'c9c0416a39316d392ba04b4f84c602a5b'
+[Minggu, 24 - 03 - 2019 | 11:37:46] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:48] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:48] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:48] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:48] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:48] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:49] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:49] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:52] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:52] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:37:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:37:56] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:37:59] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:04] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:05] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:06] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:38:07] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:12] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:15] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:16] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:38:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:22] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:23] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:26] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:38:28] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:35] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:36] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:38:38] 'STKVER'
+[Minggu, 24 - 03 - 2019 | 11:38:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:42] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:38:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:38:45] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:46] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:38:48] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:38:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:38:56] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:04] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:04] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:05] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:06] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:13] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:14] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:15] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:16] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:16] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:17] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:24] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:26] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:31] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:39:35] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:36] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:39:45] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:46] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:39:46] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:39:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:39:56] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:04] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:05] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:06] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:15] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:16] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:19] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:40:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:24] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:40:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:26] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:40:27] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:28] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:40:30] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:40:35] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:37] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:39] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:40:40] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:40:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:40:45] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:47] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:40:57] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:40:59] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:41:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:04] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:05] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:07] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:41:07] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:41:15] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:17] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:41:17] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:41:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:25] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:41:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:27] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:41:35] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:37] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:41:38] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:41:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:41:45] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:47] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:41:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:41:57] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:04] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:05] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:07] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:13] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:42:15] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:17] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:24] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:25] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:27] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:32] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:42:35] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:37] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:43] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:42:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:42:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:47] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:42:51] 'c2b5bac4cec892919e3993d310412b484'
+[Minggu, 24 - 03 - 2019 | 11:42:55] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:42:58] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:08] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:17] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:43:18] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:18] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:43:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:23] 'ROM'
+[Minggu, 24 - 03 - 2019 | 11:43:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:26] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:28] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:33] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:43:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:38] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:43:45] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:43:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:47] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:43:48] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:43:53] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:43:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:43:58] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:08] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:18] 'c2b5bac4cec892919e3993d310412b484'
+[Minggu, 24 - 03 - 2019 | 11:44:18] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:26] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:28] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:38] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:39] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:44:41] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:44:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:44:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:48] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:44:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:44:58] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:08] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:18] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:26] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:29] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:39] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:45:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:49] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:45:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:45:59] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:03] 'c2b5bac4cec892919e3993d310412b484'
+[Minggu, 24 - 03 - 2019 | 11:46:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:09] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:19] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:22] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:26] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:29] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:39] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:46:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:49] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:46:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:46:59] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:02] 'c2b5bac4cec892919e3993d310412b484'
+[Minggu, 24 - 03 - 2019 | 11:47:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:09] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:19] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:26] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:29] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:39] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:47:46] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:49] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:47:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:47:59] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:06] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:48:09] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:16] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:48:20] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:21] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:48:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:26] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:27] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:48:30] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:36] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:48:40] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:46] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:48:47] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:48:50] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:48:54] 'c2b5bac4cec892919e3993d310412b484'
+[Minggu, 24 - 03 - 2019 | 11:48:56] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:00] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:07] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:10] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:14] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:49:17] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:20] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:26] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:27] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:30] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:37] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:40] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:44] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:49:46] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:49:47] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:49:50] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:49:51] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:49:57] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:00] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:07] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:10] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:17] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:20] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:26] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:26] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:26] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:27] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:29] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:30] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:37] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:40] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:41] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:43] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:46] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:50:46] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:50:47] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:50:51] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:50:57] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:01] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:07] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:11] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:17] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:21] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:24] 'cad360ef10097ebf139ca0106a78c1015'
+[Minggu, 24 - 03 - 2019 | 11:51:26] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:27] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:30] 'c39928fb7d8d3a5777a3cc88372aa0743'
+[Minggu, 24 - 03 - 2019 | 11:51:31] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:37] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:41] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:43] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:44] 'ccbbe155bf580c40e533c697820e26926'
+[Minggu, 24 - 03 - 2019 | 11:51:46] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:51:47] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:51:51] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:51:57] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:52:01] TalkException(reason='REVOKE', parameterMap=None, code=8)
+[Minggu, 24 - 03 - 2019 | 11:52:03] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:52:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 11:52:07] TalkException(code=8, parameterMap=None, reason='DEVICE_LOSE')
+[Minggu, 24 - 03 - 2019 | 11:52:11] TalkException(reason='REVOKE', parameterMap=None, code=8)
